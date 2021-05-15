@@ -1,0 +1,1 @@
+global.apiurl = "https://localhost:44309"
